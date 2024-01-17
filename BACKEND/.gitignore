@@ -1,0 +1,55 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Dependency directories
+/*/node_modules/
+/node_modules
+/jspm_packages/
+
+# Misc
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Log files
+logs
+*.log
+npm-debug.log*
+
+# Uncomment if you don't want to check in your package-lock.json:
+# package-lock.json
+
+# Uncomment if you don't want to check in your yarn.lock:
+# yarn.lock
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS generated files
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.db
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
